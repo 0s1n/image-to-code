@@ -37,6 +37,7 @@
   },
   "resolutions": {
     "form-data": "^4.0.4",
-    "solid-js": "^1.9.4"
+    "solid-js": "^1.9.4",
+    "cross-spawn": "^7.0.5"
   }
 }
