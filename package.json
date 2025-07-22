@@ -35,5 +35,7 @@
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
   },
-  "resolutions": {}
+  "resolutions": {
+    "form-data": "^4.0.4"
+  }
 }
